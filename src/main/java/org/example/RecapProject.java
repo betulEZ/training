@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class RecapProject {
     public static void main(String[] args) {
-    String password= "aYse123%A.";
+    String password= "aYse12%A.";
     System.out.println(checkPasswordLength(password));
     System.out.println(containsUpperundLowerCase(password));
     System.out.println(checkWeakPassword(password));
